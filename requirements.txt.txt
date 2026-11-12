@@ -1,7 +1,0 @@
-streamlit
-mediapipe==0.10.14
-opencv-python-headless
-pandas
-matplotlib
-pillow
-python-docx
